@@ -35,7 +35,7 @@ h1{
 	margin-left: 10px;
 	margin-right: 10px;
 	margin-top: 16px;
-	border: 0.5px solid black;
+	border: 1px solid black;
 
 }
 
@@ -44,14 +44,14 @@ h1{
 	margin-left: 10px;
 	margin-right: 10px;
 	margin-top: 16px;
-	border: 0.5px solid black;
+	border: 1px solid black;
 }
 #d3{
 	background-color: rgb(77,255,255);
 	margin-left: 10px;
 	margin-right: 10px;
 	margin-top:16px;
-	border: 0.5px solid black;
+	border: 1px solid black;
 }
 
 #p1b{
